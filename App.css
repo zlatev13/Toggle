@@ -1,0 +1,13 @@
+body {
+  color: blue;
+  text-align: center;
+  margin-top: 400px;
+}
+
+button {
+  background-color: black;
+  color: greenyellow;
+  font-size: xx-large;
+  font-family: 🧮;
+  box-shadow: 3px 3px;
+}
